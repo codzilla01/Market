@@ -1,5 +1,6 @@
 # 👋 Hi Iam Mr.Mohamed Elnil
-Web developer interested in software and tools development. This is PC & Laptop Store.
+- Web developer interested in software and tools development.
+- This is PC & Laptop Store.
 
 ## 🛠 
 - Programming languages : HTML, CSS3, JavaScript, PHP, Python 
